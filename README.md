@@ -1,4 +1,4 @@
-# Logisim ITA
+# Logisim ITA 
 Logisim is a digital circuit simulator, [originally available here](https://www.cburch.com/logisim/).<br><br>
 This is an italian fork based on the original Logisim version.<br>
 <b>[DOWNLOAD AND CHANGELOG](https://logisim.altervista.org)</b><br>
