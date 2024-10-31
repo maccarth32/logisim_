@@ -7,7 +7,7 @@ This is an italian fork based on the original Logisim version.<br>
 <b>[USER TUTORIALS](https://logisim.altervista.org/userstutorial.php)</b><br>
 <b>[DEVS TUTORIALS](https://logisim.altervista.org/developerstutorial.php)</b><br>
 ## Why you should use Logisim ITA
-* No retro-compatibility problems with old .circ files
+* No retro-compatibility problems with old .circ files.
 * A lot of new components and small changes
 * Bug fixes and optimizations
 * Constantly supported and listening to all your suggestions/reports
